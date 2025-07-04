@@ -10,3 +10,7 @@ project/target/
 .DS_Store
 venv/
 .ipynb_checkpoints/
+ml-100k/
+ml-100k.zip
+*.bak
+venv/
