@@ -8,3 +8,5 @@ project/target/
 
 # macOS
 .DS_Store
+venv/
+.ipynb_checkpoints/
